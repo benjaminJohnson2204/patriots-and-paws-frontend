@@ -20,12 +20,10 @@ const TermsConditionModal = ({ onClose, isOpen }) => {
         <ModalCloseButton />
         <ModalBody>
           <Text>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-            exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
-            dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-            mollit anim id est laborum
+            I agree to have my furniture/home goods out and ready for the agreed upon date and time.
+            They will either be in the garage (ground level) or driveway with easy access for
+            pickup. They will be in a useful condition and not have rips, tears, or stains, or be
+            broken, chipped, or in need of cleaning.
           </Text>
         </ModalBody>
       </ModalContent>
