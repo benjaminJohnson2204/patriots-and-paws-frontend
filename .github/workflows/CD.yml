@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - dev
+
 env:
   NODE_ENV: ${{ secrets.NODE_ENV }}
   REACT_APP_FIREBASE_APIKEY: ${{ secrets.REACT_APP_FIREBASE_APIKEY }}
